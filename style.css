@@ -55,6 +55,18 @@ body {
     }
 }
 
-.results {
+.output-here {
     color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    margin-top: 20px;
+    padding: 10px;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 10px;
 }
